@@ -98,8 +98,9 @@ Food_Order_App/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/VikashKumar1424/Food_Order_App.git
-   cd Food_Order_App
+   git clone <path>
+   cd FastApi_Food_Order_App
+
    ```
 
 2. Create and activate a virtual environment:
